@@ -56,7 +56,7 @@
             />
           </HoppSmartWindow>
           <template #actions>
-            <EnvironmentsSelector />
+            <EnvironmentsSelector class="h-full" />
           </template>
         </HoppSmartWindows>
       </template>
